@@ -3,3 +3,7 @@ C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\Samu
 C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csprojAssemblyReference.cache
 C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
 C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\bin\Debug\netstandard2.0\SamuraiApp.Domain.pdb
+C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.dll
+C:\Users\jvicencio\Documents\Practicas\Entity Framework Core 3.1\SamuraiApp\SamuraiApp.Domain\obj\Debug\netstandard2.0\SamuraiApp.Domain.pdb
