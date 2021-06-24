@@ -6826,25 +6826,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jvicencio\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jvl_j\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+      "projectUniqueName": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
       "projectName": "SamuraiApp.Data",
-      "projectPath": "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
-      "packagesPath": "C:\\Users\\jvicencio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Data\\obj\\",
+      "projectPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+      "packagesPath": "C:\\Users\\jvl_j\\.nuget\\packages\\",
+      "outputPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jvicencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jvl_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6853,13 +6851,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+            "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+              "projectPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
             }
           }
         }
@@ -6893,7 +6891,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

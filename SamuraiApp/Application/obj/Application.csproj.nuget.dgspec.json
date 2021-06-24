@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {}
+    "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+    "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
-        "projectName": "SamuraiApp.Domain",
-        "projectPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectUniqueName": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\jvl_j\\.nuget\\packages\\",
-        "outputPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
+        "outputPath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,14 +22,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -40,15 +40,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -59,6 +51,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }

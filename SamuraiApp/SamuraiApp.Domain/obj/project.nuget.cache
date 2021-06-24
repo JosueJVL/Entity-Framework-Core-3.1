@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LLhY/C8SIck9rnEYjz1NVEHQhKFidNsHzNbjH9xw2A02FUzipfjT7iTgUzBJV20g6o3vSmKhcpzBonYtJ4nzWg==",
+  "dgSpecHash": "8BhVIPJpe/8k5naBPm6sJsQa0P/2ynv2/9EXHbX9yOQqTv5RLzC8k3NyvEYgiuzPM+LMjywuW4fU9KQq2ZALeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvicencio\\Documents\\Practicas\\Entity Framework Core 3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "D:\\jvl_j\\Source\\git\\repositorio1\\Entity-Framework-Core-3.1\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jvicencio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\jvl_j\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jvl_j\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
